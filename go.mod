@@ -1,0 +1,3 @@
+module addwork
+
+go 1.22.5
